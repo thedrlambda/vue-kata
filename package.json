@@ -1,0 +1,25 @@
+{
+  "name": "vue-mock-kata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "Christian Clausen <ccl@eficode.com>",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "vue": "^2.6.9",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@vue/test-utils": "^1.0.0-beta.29",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "jest-serializer-vue": "^2.0.2",
+    "vue-jest": "^3.0.4",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
